@@ -1,1 +1,1 @@
-
+**A collection of foundational and practice-oriented projects developed using Java, Java Spring, and SQL, designed to enhance backend development skills and provide a deeper understanding of various concepts in software development.**
