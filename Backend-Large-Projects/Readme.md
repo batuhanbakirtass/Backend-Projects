@@ -1,1 +1,1 @@
-
+**A collection of comprehensive, large-scale projects developed using Java, Java Spring, and SQL. These projects are designed to demonstrate advanced backend development skills, integrate multiple technologies, and address real-world scenarios, showcasing end-to-end solutions for complex problems.**
